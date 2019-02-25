@@ -1,0 +1,9 @@
+html {
+  background-color: lavenderblush;
+
+  .clearfix {
+    display: block;
+    content: "";
+    clear: both;
+  }
+}
